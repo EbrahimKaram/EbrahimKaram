@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Ebrahim likes to call himself Bob. Bob likes to speak in the third person and type what the voice in his head says.
+
 <!--
 **EbrahimKaram/EbrahimKaram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
