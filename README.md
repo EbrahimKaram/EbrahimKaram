@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Ebrahim but more specifically others like to call him **Bob**. Bob likes to speak in the third person and type what the voice 🔊 in his head 🧕 says.
+Ebrahim but others like to call him **Bob**. Bob likes to speak in the third person and type what the voice 🔊 in his head 🧕 says.
 
 ### Who is Bob
 
