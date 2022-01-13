@@ -22,6 +22,15 @@ Making things but *specifically* 👨‍🔧
 
 _Making Lebanon Better. One Byte at a time_
 
+<p align="center">
+<a href="https://github.com/EbrahimKaram">
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=EbrahimKaram&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=daf7dc&icon_color=ffffff&bg_color=151515" alt="Ebrahim Karam | Stats" />
+</a> <a href="https://github.com/katelyn98">
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EbrahimKaram&hide=html,css,tsql&hide_title=false&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426&text_color=daf7dc&icon_color=ffffff&bg_color=151515" alt="Ebrahim Karam | Top Languages" />
+</a>
+<br>
+
+_The above style was taken from @arghyadeep99_
 
 <!--
 **EbrahimKaram/EbrahimKaram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
