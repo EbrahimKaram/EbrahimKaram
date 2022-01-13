@@ -13,15 +13,8 @@ Making things but *specifically* 👨‍🔧
 * Things that serve the community 💒
 * Things that are interactive and playful 🥳 when you use them.
 
-### How to support Bob
 
-* Build on top of what he provided 🎩↗
-* Fork 🍴 and star 🌟 the repositories that are useful so he knows which are worth pursuing
-* If you want buy him a 🍺 (Do It [here](https://www.buymeacoffee.com/bobKaram))
-
-
-_Making Lebanon Better. One Byte at a time_
-
+### Github Stats 📊
 <p align="center">
 <a href="https://github.com/EbrahimKaram">
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=EbrahimKaram&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=daf7dc&icon_color=ffffff&bg_color=151515" alt="Ebrahim Karam | Stats" />
@@ -32,6 +25,15 @@ _Making Lebanon Better. One Byte at a time_
 
 _The above style was taken from @arghyadeep99_
 
+  
+ ### How to support Bob
+
+* Build on top of what he provided 🎩↗
+* Fork 🍴 and star 🌟 the repositories that are useful so he knows which are worth pursuing
+* If you want buy him a 🍺 (Do It [here](https://www.buymeacoffee.com/bobKaram))
+
+
+_Making Lebanon Better. One Byte at a time_
 <!--
 **EbrahimKaram/EbrahimKaram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
