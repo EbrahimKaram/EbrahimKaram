@@ -24,6 +24,7 @@ Making things but *specifically* 👨‍🔧
 <br>
 
 _The above style was taken from @arghyadeep99_
+_This is the API I'm using https://github.com/anuraghazra/github-readme-stats_
 
   
  ### How to support Bob
